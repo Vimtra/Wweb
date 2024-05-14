@@ -239,7 +239,7 @@ footer{
 
 .address{
     position: relative;
-    top: 200px;
+    top: 100px;
     left: 100px;
 }
 
@@ -252,6 +252,6 @@ footer{
 
 .contact2{
     position: relative;
-    bottom: 500px;
+    bottom: 610px;
     left: 700px;
 }
