@@ -1,0 +1,249 @@
+*{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    min-height: 100vh;
+}
+
+.logo{
+    position: absolute;
+    left: 40px;
+    width: 200px;
+    height: 110px;
+}
+
+.nav{
+    position: relative;
+    top: 35px;
+    right: 40px;
+}
+
+.landing{
+    position: relative;
+    top: 75px;
+}
+
+
+.landing img{
+    width: 100%;
+    height: 400px;
+}
+
+.landing div{
+    width: 35%;
+    padding: 30px 20px;
+    text-align: center;
+    position: relative;
+    bottom: 330px;
+    left: 30px;
+    background-color: #cc0202;
+    color: #ffffff;
+}
+
+.landing p{
+    font-size: small;
+}
+
+.tiles{
+    position: relative;
+    bottom: 150px;
+    padding: 0 100px 0 100px;
+    font-size: small;
+}
+
+
+.size{
+    width: 300px;
+    height: 160px;
+}
+
+.tiles h3{
+    text-align: center;
+    padding-top: 12px;
+    position: relative;
+    right: 15px;
+}
+
+.tiles p{
+    text-align: center;
+    height: 180px;
+    overflow: auto;
+    width: 300px;
+}
+
+.one{
+    max-width: 1070px;
+    position: relative;
+    bottom: 50px;
+  }
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.fimg img{
+    width: 600px;
+    height: 500px;
+}
+
+.ftext{
+    padding: 30px 0 0 30px;
+    background-color: #57575c;
+    color: #cc0202;
+}
+
+.ftext h3{
+    padding-top: 10px;
+    color: #ffffff;
+}
+
+.ftext p{
+    color: #ffffff;
+}
+
+.urpan{
+    text-align: center;
+    position: relative;
+    right: 20px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* Page 2 CSS */
+
+.page2 img{
+    position: relative;
+    top: 50px;
+    width: 100%;
+    height: 600px;
+    padding: 50px;
+}
+
+.two{
+    margin-top: 30px;
+}
+
+.right{
+    width: 340px;
+}
+
+.left h6{
+    font-weight: bold;
+}
+
+/* page 3 CSS */
+
+.page3 img{
+    position: relative;
+    top: 50px;
+    width: 100%;
+    height: 600px;
+    padding: 50px;
+}
+
+.three{
+    margin-top: 30px;
+}
+
+.left1 img{
+    width: 350px;
+    height: 270px;
+    position: relative;
+    top: 30px;
+}
+
+.right1{
+    padding-top: 82px;
+    position: relative;
+    right: 70px;
+    width: 630px;
+}
+
+
+/* Page 4 CSS */
+
+.subhash{
+    position: relative;
+    left: 80px;
+    top: 150px;
+}
+
+.team1{
+    position: relative;
+    left: 380px;
+    bottom: 180px;
+    width: 850px;
+}
+
+.rao{
+    position: relative;
+    left: 80px;
+    width: 230px;
+    height: 240px;
+}
+
+.team2{
+    position: relative;
+    left: 380px;
+    bottom: 240px;
+    width: 850px;
+}
+
+.team3{
+    position: relative;
+    left: 380px;
+    bottom: 240px;
+    width: 850px;
+}
+
+
+/* page 5 CSS */
+
+.services{
+    position: relative;
+    top: 150px;
+    left: 150px;
+    width: 1050px;
+}
+
+.ser{
+    position: relative;
+    top: 200px;
+}
+
+/* page 6 CSS */
+
+.contact img{
+    position: relative;
+    top: 50px;
+    width: 100%;
+    height: 600px;
+    padding: 50px;
+}
+
+.address{
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+
+.address p{
+    margin: 0;
+}
+.address h6{
+    margin: 20px 0;
+}
+
+.contact2{
+    position: relative;
+    bottom: 500px;
+    left: 700px;
+}
